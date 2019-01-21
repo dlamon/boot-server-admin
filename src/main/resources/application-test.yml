@@ -1,0 +1,5 @@
+server:
+  port: 20081
+
+logging:
+  file: ./logs/server.log
